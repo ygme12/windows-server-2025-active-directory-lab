@@ -1,6 +1,9 @@
-# Windows Server 2025 Lab: From Empty VM to Domain Controller with Storage Spaces
+# Windows Server Active Directory Lab
 
-A practical guide to building a small Windows Server 2025 lab. It covers installation, initial configuration, Active Directory Domain Services (AD DS), DNS, users and groups, Kerberos ticket inspection, and a two-way mirrored Storage Spaces volume.
+A hands-on Windows Server lab covering server installation, initial configuration, Active Directory Domain Services (AD DS), DNS, domain-controller promotion, directory objects, and security fundamentals.
+
+> [!NOTE]
+> The original course guide below was drafted around a Windows Server 2025 virtual-machine scenario. The actual hands-on build documented in [LAB-PROGRESS.md](LAB-PROGRESS.md) uses **Windows Server 2022 on a physical desktop**. The guide is reference material, not a claim that every listed exercise has been completed. The implementation log records only work actually performed and verified.
 
 **Course:** Network Operating Systems Windows  
 **Institution:** University of Dunaújváros  
