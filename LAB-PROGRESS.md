@@ -37,7 +37,7 @@ The lab is being built on older hardware with limited memory. Performance and co
 
 ## Current status
 
-<badge>In progress</badge>
+**Status: In progress**
 
 The domain-controller promotion has **not** completed.
 
